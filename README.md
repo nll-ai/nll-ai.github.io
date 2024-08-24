@@ -6,7 +6,7 @@ We specialize in **Generative AI** solutions tailored to transform the way busin
 
 ## Our mission
 
-At Non-Linear Labs, our mission is to enable businesses to harness the potential of **Generative AI** to turbocharge their missions. We partner with organizations to accelerate growth and innovation while ensuring that AI enhances — rather than replaces — human performance.
+At Non-Linear Labs, our mission is to enable businesses to harness the potential of **Generative AI** to turbocharge your mission. We partner with organizations to accelerate growth and innovation while ensuring that AI enhances — rather than replaces — human performance.
 
 ## What we do
 
