@@ -16,6 +16,21 @@ We provide consulting and implementation services in the following areas:
 - **AI Solutions Development**: Tailored AI models and solutions that fit the specific needs of your business.
 - **AI Training and Enablement**: We equip teams with the knowledge and tools to thrive in an AI-driven world.
 
+## Our work in action
+
+We’ve developed LlamaBot, a versatile AI that demonstrates how Generative AI can streamline workflows across industries. Here are a few examples:
+
+- **Developer tools**:
+  - **Git commit message writer**: Automatically generates clear and concise commit messages based on your code changes.
+  - **Release notes writer**: Summarizes commit message logs to create detailed release notes.
+- **Blogging tools**:
+  - **Social media posting composer**: Craft engaging social media content with ease.
+  - **Banner image composer**: Automatically generate banner images tailored to your blog posts.
+- **Science tools**:
+  - **Zotero library chat**: Easily interact with and retrieve references from your Zotero library through conversational AI.
+
+These examples highlight our ability to create innovative solutions that address real-world challenges, helping our clients save time and elevate their workflows.
+
 ## Why choose us
 
 Our approach combines deep technical expertise with a commitment to our clients’ success. As a boutique consultancy, we offer personalized service and build custom solutions — no off-the-shelf packages here. Instead, we focus on finding the right opportunities to inject Generative AI where it can turbocharge human performance and empower your team to do their best work.
