@@ -18,7 +18,7 @@ We provide consulting and implementation services in the following areas:
 
 ## Our work in action
 
-We’ve developed LlamaBot, a versatile AI that demonstrates how Generative AI can streamline workflows across industries. Here are a few examples:
+We’ve developed [LlamaBot](https://ericmjl.github.io/llamabot), a Pythonic GenAI toolkit that enabled us to build tools to eliminate drudge work and supercharge human performance. Here are a few examples:
 
 - **Developer tools**:
   - **Git commit message writer**: Automatically generates clear and concise commit messages based on your code changes.
