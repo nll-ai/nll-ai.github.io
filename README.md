@@ -1,33 +1,52 @@
-# nll-ai.github.io
+# Non-Linear Labs
 
-Welcome to nll-ai.github.io, your trusted partner in AI solutions.
+Welcome to **Non-Linear Labs** — where cutting-edge AI meets strategic innovation.
 
-## About Us
+We specialize in **Generative AI** solutions tailored to transform the way businesses operate, grow, and compete. Whether you're looking to enhance automation, build intelligent systems, or gain deeper insights through AI, we bring the expertise to make it happen.
 
-We specialize in developing cutting-edge AI solutions for businesses of all sizes.
+## Our mission
 
-## Our Services
+At Non-Linear Labs, our mission is to enable businesses to harness the potential of **Generative AI** to turbocharge your mission. We partner with organizations to accelerate growth and innovation while ensuring that AI enhances — rather than replaces — human performance.
 
-- Machine Learning Consulting
-- AI Integration
-- Custom AI Development
-- Data Analysis and Visualization
+## What we do
 
-## Why Choose Us
+We provide consulting and implementation services in the following areas:
 
-- Expertise in the latest AI technologies
-- Tailored solutions for your specific needs
-- Proven track record of successful implementations
-- Dedicated support and maintenance
+- **Generative AI Strategy**: We help businesses identify opportunities for AI integration, from product development to operational efficiency.
+- **AI Solutions Development**: Tailored AI models and solutions that fit the specific needs of your business.
+- **AI Training and Enablement**: We equip teams with the knowledge and tools to thrive in an AI-driven world.
 
-## Contact Us
+## Our work in action
 
-Get in touch to learn how we can help your business leverage the power of AI.
+We’ve developed [LlamaBot](https://ericmjl.github.io/llamabot), a Pythonic GenAI toolkit that enabled us to build tools to eliminate drudge work and supercharge human performance. Here are a few examples:
 
-Email: info@nll-ai.com
-Phone: (123) 456-7890
+- **Developer tools**:
+  - **Git commit message writer**: Automatically generates clear and concise commit messages based on your code changes.
+  - **Release notes writer**: Summarizes commit message logs to create detailed release notes.
+- **Blogging tools**:
+  - **Social media posting composer**: Craft engaging social media content with ease.
+  - **Banner image composer**: Automatically generate banner images tailored to your blog posts.
+- **Science tools**:
+  - **Zotero library chat**: Easily interact with and retrieve references from your Zotero library through conversational AI.
 
-[Learn More](#)
+These examples highlight our ability to create innovative solutions that address real-world challenges, helping our clients save time and elevate their workflows.
 
-<!-- The following line links the CSS file -->
-<link rel="stylesheet" href="styles.css">
+## Why choose us
+
+Our approach combines deep technical expertise with a commitment to our clients’ success. As a boutique consultancy, we offer personalized service and build custom solutions — no off-the-shelf packages here. Instead, we focus on finding the right opportunities to inject Generative AI where it can turbocharge human performance and empower your team to do their best work.
+
+### Key benefits
+
+- **Tailored solutions**: Every engagement is unique, and so are our solutions.
+- **Proven expertise**: We stay at the forefront of AI advancements so you don’t have to.
+- **End-to-end support**: From strategy to implementation, we’ve got you covered.
+
+## Let's get started
+
+Curious about how Generative AI can help your business? Let’s start a conversation.
+
+Email us at **contact@nonlinearlabs.ai** or visit our website at **[nonlinearlabs.ai](https://www.nonlinearlabs.ai)**.
+
+---
+
+*© 2024 Non-Linear Labs, LLC. All rights reserved.*
