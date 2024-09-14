@@ -23,6 +23,7 @@ We’ve developed [LlamaBot](https://ericmjl.github.io/llamabot), a Pythonic Gen
 - **Developer tools**:
   - **Git commit message writer**: Automatically generates clear and concise commit messages based on your code changes.
   - **Release notes writer**: Summarizes commit message logs to create detailed release notes.
+  - **Auto Documentation Maintainer**: Keep your documentation up to date with the codebase.
 - **Blogging tools**:
   - **Social media posting composer**: Craft engaging social media content with ease.
   - **Banner image composer**: Automatically generate banner images tailored to your blog posts.
