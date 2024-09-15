@@ -34,7 +34,16 @@ These examples highlight our ability to create innovative solutions that address
 
 ## Why choose us
 
-Our approach combines deep technical expertise with a commitment to our clients’ success. As a boutique consultancy, we offer personalized service and build custom solutions — no off-the-shelf packages here. Instead, we focus on finding the right opportunities to inject Generative AI where it can turbocharge human performance and empower your team to do their best work.
+Our approach combines deep technical expertise
+with a commitment to our clients' success.
+As a boutique consultancy,
+we offer personalized service and build custom solutions —
+no off-the-shelf packages here.
+Instead,
+we focus on finding the right opportunities
+to inject Generative AI
+where it can turbocharge human performance
+and empower your team to do their best work.
 
 ### Key benefits
 
