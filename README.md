@@ -1,59 +1,56 @@
 # Non-Linear Labs
 
-Welcome to **Non-Linear Labs** — where cutting-edge AI meets strategic innovation.
+Welcome to **Non-Linear Labs** — your partner in solving the toughest challenges with Generative AI.
 
-We specialize in **Generative AI** solutions tailored to transform the way businesses operate, grow, and compete. Whether you're looking to enhance automation, build intelligent systems, or gain deeper insights through AI, we bring the expertise to make it happen.
+## Solving your biggest challenges
 
-## Our mission
+### Accelerate your data science teams’ productivity
 
-At Non-Linear Labs, our mission is to enable businesses to harness the potential of **Generative AI** to turbocharge your mission. We partner with organizations to accelerate growth and innovation while ensuring that AI enhances — rather than replaces — human performance.
+Are your data science teams struggling with inefficiencies or getting bogged down by repetitive tasks? We can help you 5x their productivity through team organization and tailored ways-of-working playbooks. Backed by specialized training materials and tools like **pyds-cli** and the **LlamaBot Git commit message writer**, we streamline workflows and free up your team to focus on high-value tasks.
 
-## What we do
+### Build GenAI applications faster
 
-We provide consulting and implementation services in the following areas:
+Does it take too long to deploy autonomous Generative AI applications? Our tools, like **LlamaBot**, enable engineers and data science teams to dramatically reduce development time. We provide frameworks and guidance to help you go from concept to production quickly, giving your teams the edge they need in a fast-paced world.
 
-- **Generative AI Strategy**: We help businesses identify opportunities for AI integration, from product development to operational efficiency.
-- **AI Solutions Development**: Tailored AI models and solutions that fit the specific needs of your business.
-- **AI Training and Enablement**: We equip teams with the knowledge and tools to thrive in an AI-driven world.
+### Double your company’s productivity with GenAI
 
-## Our work in action
+Imagine doubling your organization’s internal productivity through GenAI-enabled ways of working. We help companies achieve this by implementing Generative AI solutions that enhance communication, decision-making, and operations, ensuring your team works smarter, not harder.
 
-We’ve developed [LlamaBot](https://ericmjl.github.io/llamabot), a Pythonic GenAI toolkit that enabled us to build tools to eliminate drudge work and supercharge human performance. Here are a few examples:
+## How we help
 
-- **Developer tools**:
-  - **Git commit message writer**: Automatically generates clear and concise commit messages based on your code changes.
-  - **Release notes writer**: Summarizes commit message logs to create detailed release notes.
-  - **Auto Documentation Maintainer**: Keep your documentation up to date with the codebase.
-- **Blogging tools**:
-  - **Social media posting composer**: Craft engaging social media content with ease.
-  - **Banner image composer**: Automatically generate banner images tailored to your blog posts.
-- **Science tools**:
-  - **Zotero library chat**: Easily interact with and retrieve references from your Zotero library through conversational AI.
+Our approach focuses on understanding your unique challenges and delivering practical solutions that make an impact. Here’s how we support your business:
 
-These examples highlight our ability to create innovative solutions that address real-world challenges, helping our clients save time and elevate their workflows.
+- **Tailored strategies**: Identify high-impact areas where Generative AI can create immediate value.
+- **Custom solutions**: Develop and deploy AI models designed to address your specific pain points.
+- **Comprehensive enablement**: Equip your teams with the knowledge, tools, and confidence to adopt and excel with AI-driven solutions.
 
-## Why choose us
+## Proven tools in action
 
-Our approach combines deep technical expertise
-with a commitment to our clients' success.
-As a boutique consultancy,
-we offer personalized service and build custom solutions —
-no off-the-shelf packages here.
-Instead,
-we focus on finding the right opportunities
-to inject Generative AI
-where it can turbocharge human performance
-and empower your team to do their best work.
+We’ve developed [LlamaBot](https://ericmjl.github.io/llamabot), a Pythonic GenAI toolkit designed to tackle real-world challenges. Here’s what we’ve achieved:
 
-### Key benefits
+- **Team productivity tools**:
+  - **Git commit message writer**: Saves developers hours by generating concise, clear commit messages automatically.
+  - **Release notes writer**: Streamlines documentation by summarizing commit logs into professional release notes.
+  - **Auto documentation maintainer**: Keeps technical documentation up to date with code changes.
+- **Content creation tools**:
+  - **Social media posting composer**: Simplifies crafting engaging posts tailored to your audience.
+  - **Banner image composer**: Generates visually compelling images for blogs and articles automatically.
+- **Research tools**:
+  - **Zotero library chat**: Makes managing and retrieving research references effortless with conversational AI.
 
-- **Tailored solutions**: Every engagement is unique, and so are our solutions.
-- **Proven expertise**: We stay at the forefront of AI advancements so you don’t have to.
-- **End-to-end support**: From strategy to implementation, we’ve got you covered.
+These solutions demonstrate our ability to help clients save time, reduce effort, and enhance outcomes through innovative AI applications.
 
-## Let's get started
+## Why partner with Non-Linear Labs?
 
-Curious about how Generative AI can help your business? Let’s start a conversation.
+We’re committed to solving the challenges that matter most to your business. As a boutique consultancy, we offer personalized service and cutting-edge expertise. Instead of generic solutions, we focus on:
+
+- **Understanding your needs**: Every problem is unique, and so is our approach.
+- **Delivering impact**: We prioritize solutions that make a measurable difference to your productivity and growth.
+- **Providing full support**: From strategy to implementation and beyond, we’re with you every step of the way.
+
+## Ready to transform your business?
+
+Let’s tackle your toughest challenges together. Reach out to learn how Generative AI can revolutionize your business.
 
 Email us at **contact@nonlinearlabs.ai** or visit our website at **[nonlinearlabs.ai](https://www.nonlinearlabs.ai)**.
 
