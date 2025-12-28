@@ -1,36 +1,79 @@
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    line-height: 1.5;
+    line-height: 1.6;
     color: #1f1f1f;
     margin: 0;
     padding: 0;
     background-color: #fff;
 }
 .container {
-    max-width: 960px;
+    max-width: 720px;
     margin: 0 auto;
-    padding: 40px 20px;
+    padding: 60px 20px;
+}
+header {
+    margin-bottom: 40px;
 }
 h1 {
-    font-size: 32px;
-    font-weight: 500;
-    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 8px;
     color: #1d2d35;
 }
-.content {
+.tagline {
+    font-size: 20px;
+    color: #555;
+    margin: 0;
+}
+main {
     margin-top: 20px;
+}
+section {
+    margin-bottom: 40px;
 }
 h2 {
     font-size: 24px;
     font-weight: 500;
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
+    color: #1d2d35;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 10px;
     color: #1d2d35;
 }
+.service {
+    margin-bottom: 25px;
+}
 p {
-    font-size: 18px;
-    margin-bottom: 15px;
-    color: #1f1f1f;
+    font-size: 17px;
+    margin-bottom: 12px;
+    color: #333;
+}
+a {
+    color: #1d2d35;
+    text-decoration: underline;
+}
+a:hover {
+    color: #3a5a6a;
+}
+.policies p {
+    font-size: 15px;
+    color: #555;
+}
+footer {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+footer p {
+    font-size: 14px;
+    color: #888;
 }
 .btn {
     display: inline-block;
