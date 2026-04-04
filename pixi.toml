@@ -1,15 +1,18 @@
 [workspace]
 authors = ["Eric Ma <ericmajinglong@gmail.com>"]
 channels = ["conda-forge"]
-description = "Add a short description here"
+description = "Non-Linear Labs website powered by MkDocs Material"
 name = "nll-ai.github.io"
 platforms = ["osx-arm64"]
 version = "0.1.0"
 
 [tasks]
+build = "mkdocs build"
+serve = "mkdocs serve --livereload"
 
 [dependencies]
 python = ">=3.14.3,<3.15"
+uv = "*"
 
 [pypi-dependencies]
 mkdocs = ">=1.6.1, <2"
