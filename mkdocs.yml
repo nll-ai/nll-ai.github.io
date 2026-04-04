@@ -1,0 +1,37 @@
+site_name: Non-Linear Labs
+site_description: Generative AI consulting & education for Gen Alpha
+
+repo_url: https://github.com/nll-ai/nll-ai.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  palette:
+    scheme: light
+    primary: blue
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tracking
+    - toc.follow
+    - content.tabs.link
+
+nav:
+  - index.md
+  - Coaching: coaching/index.md
+
+plugins:
+  - blog:
+      blog_dir: blog
+      blog_toc: true
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nll-ai
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/nonlinear-labs
+
+copyright: Copyright &copy; 2025 Non-Linear Labs. All rights reserved.
